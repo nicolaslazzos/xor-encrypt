@@ -1,2 +1,2 @@
 # xor-encrypt
-Programita simple que hice en python para encriptar/desencriptar un archivo utilizando el metodo XOR
+Programita simple en python que hice a principios de 2018 para encriptar/desencriptar un archivo utilizando el metodo XOR
